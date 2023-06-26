@@ -27,7 +27,7 @@ url: "vivi108.github.io" # the base hostname & protocol for your site, e.g. http
 github_username:  vivi108
 
 # Build settings
-# theme: jekyll-theme-yat
+theme: jekyll-theme-yat
 plugins:
   - jekyll-feed
 
